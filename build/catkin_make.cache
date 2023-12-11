@@ -1,0 +1,2 @@
+valorant_simulation_jarif
+-DCATKIN_DEVEL_PREFIX=/home/archnoid/example_2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/archnoid/example_2_ws/install -G Unix Makefiles

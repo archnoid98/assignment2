@@ -1,0 +1,8 @@
+prefix=/home/archnoid/example_2_ws/install
+
+Name: valorant_simulation_jarif
+Description: Description of valorant_simulation_jarif
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
